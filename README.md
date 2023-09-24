@@ -1,5 +1,4 @@
-# SEMUNI2023_MATLAB_SIMULINK
-# Semana da Simulação Computacional da Faculdade de Tecnologia
+# Semana da Simulação Computacional da FT
 
 ## - Minicurso 1 - Introdução à Modelagem de Sistemas com MatLab e Simulink
 
